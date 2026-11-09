@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hammademad79-cmd.github.io/dressingo/sitemap.xml
